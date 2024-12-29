@@ -9,12 +9,12 @@ export default function App() {
       <Background />
       <div className="relative max-w-2xl mx-auto px-4 py-16">
         <div className="text-center mb-8">
-          <h1 className="text-3xl font-bold text-white">John Doe</h1>
+          <h1 className="text-3xl font-bold text-white">Ján Pšenák</h1>
         </div>
 
         <div className="space-y-4">
-          {LINKS.map((link) => (
-            <LinkCard key={link.url} {...link} />
+          {LINKS.map((link, index) => (
+            <LinkCard key={index} {...link} />
           ))}
         </div>
       </div>
