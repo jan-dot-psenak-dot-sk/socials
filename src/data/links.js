@@ -12,7 +12,7 @@ export const LINKS = [
     url: 'https://instagram.com/janpsenak_',
   },
   {
-    title: 'GitHub (jan-dot-psenak-dot-sk)',
+    title: 'GitHub',
     description: 'jan-dot-psenak-dot-sk',
     url: 'https://github.com/jan-dot-psenak-dot-sk',
   },
