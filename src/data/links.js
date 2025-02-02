@@ -23,7 +23,7 @@ export const LINKS = [
   {
     title: 'Bluesky',
     description: 'jpsenak.bsky.social',
-    url: "https://bsky.app/profile/jpsenak.bsky.social"
+    url: "https://bsky.app/profile/psenak.sk"
   },
   {
     title: 'Mastodon',
