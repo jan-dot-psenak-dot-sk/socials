@@ -22,7 +22,7 @@ export const LINKS = [
   },
   {
     title: 'Bluesky',
-    description: 'jpsenak.bsky.social',
+    description: 'psenak.sk',
     url: "https://bsky.app/profile/psenak.sk"
   },
   {
@@ -32,8 +32,8 @@ export const LINKS = [
   },
   {
     title: 'GameJolt',
-    description: 'nulldev_',
-    url: "https://gamejolt.com/@nulldev_"
+    description: 'not_jpsenak',
+    url: "https://gamejolt.com/@not_jpsenak"
   },
   {
     title: 'Threads',
