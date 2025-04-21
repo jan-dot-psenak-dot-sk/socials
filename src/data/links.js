@@ -44,4 +44,5 @@ export const LINKS = [
     title: "Nostr",
     description: "npub15jsut6x2cldq82lmtg3hspktxwdyp0gzy6ckwr2u02cqgnjl78jshf5j62",
     url: "https://nostrapp.link/#npub15jsut6x2cldq82lmtg3hspktxwdyp0gzy6ckwr2u02cqgnjl78jshf5j62"
+  }
 ];
