@@ -13,8 +13,13 @@ export const LINKS = [
   },
   {
     title: 'GitHub',
-    description: 'jan-dot-psenak-dot-sk',
-    url: 'https://github.com/jan-dot-psenak-dot-sk',
+    description: 'psenakdotsk',
+    url: 'https://github.com/psenakdotsk',
+  },
+  {
+    title: 'Codeberg',
+    description: 'psenakdotsk',
+    url: 'https://codeberg.org/psenakdotsk',
   },
   {
     title: 'Discord',
