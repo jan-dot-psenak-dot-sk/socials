@@ -9,7 +9,7 @@ export default function App() {
       <Background />
       <div className="relative max-w-2xl mx-auto px-4 py-16">
         <div className="text-center mb-8">
-          <h1 className="text-3xl font-bold text-white">Ján Pšenák</h1>
+          <h1 className="text-3xl font-bold text-white">psenakdotsk (Ján Pšenák)</h1>
         </div>
 
         <div className="space-y-4">
